@@ -1,0 +1,107 @@
+[
+    {
+        "name":"max",
+        "lastname":"Kavlanov",
+        "work_place":"SpaceX",
+        "income":[
+            {
+                "date":"2020-03",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            },
+
+            {
+                "date":"2020-04",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            },
+
+            {
+                "date":"2020-05",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            },
+
+            {
+                "date":"2020-06",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            },
+
+            {
+                "date":"2020-07",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            },
+
+            {
+                "date":"2020-08",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            },
+
+            {
+                "date":"2020-09",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            },
+
+            {
+                "date":"2020-10",
+                "income_amount":3000543.67,
+                "tax":360065.24,
+                "organization":"SpaceX"
+            }
+        ]   
+    },
+
+    {
+        "name":"abdulajon",
+        "lastname":"abdulajonov",
+        "work_place":"EPAM",
+        "income":[
+            {
+                "date":"2021-03",
+                "income_amount":2000543.67,
+                "tax":260065.24,
+                "organization":"EPAM"
+            },
+
+            {
+                "date":"2021-04",
+                "income_amount":2000543.67,
+                "tax":160065.24,
+                "organization":"EPAM"
+            },
+
+            {
+                "date":"2021-05",
+                "income_amount":20000543.67,
+                "tax":260065.24,
+                "organization":"EPAM"
+            },
+
+            {
+                "date":"2021-06",
+                "income_amount":20000543.67,
+                "tax":260065.24,
+                "organization":"EPAM"
+            },
+
+            {
+                "date":"2021-07",
+                "income_amount":20000543.67,
+                "tax":260065.24,
+                "organization":"EPAM" 
+            }
+        ]   
+    }
+]
+
