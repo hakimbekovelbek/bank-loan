@@ -1,0 +1,331 @@
+[
+  {
+    "name":"Elbek",
+    "lastname": "Khkimbekov",
+    "birthdate": "1999-03-31",
+    "work-place": "AL-JABR",
+    "income": [
+      {
+        "date": "2021-09",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-JABR"
+      },
+      {
+        "date": "2021-10",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-JABR"
+      },
+            {
+        "date": "2021-11",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-JABR"
+      },
+            {
+        "date": "2021-12",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-JABR"
+      },
+            {
+        "date": "2022-01",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-JABR"
+      },
+            {
+        "date": "2022-02",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-JABR"
+      }
+    ]
+  },
+  {
+    "name":"Maqsudov",
+    "lastname": "Javlon",
+    "birthdate": "1998-03-31",
+    "work-place": "EPAM",
+    "income": [
+            {
+        "date": "2021-12",
+        "income_amount": 30005436.7,
+        "tax": 3600652.4,
+        "organization": "EPAM"
+      },
+            {
+        "date": "2022-01",
+        "income_amount": 3000543.67,
+        "tax": 3600652.4,
+        "organization": "EPAM"
+      },
+            {
+        "date": "2022-02",
+        "income_amount": 3000543.67,
+        "tax": 3600652.4,
+        "organization": "EPAM"
+      }
+    ]
+  },
+  {
+    "name":"Ismoil",
+    "lastname": "Makhamatdjanov",
+    "birthdate": "2001-11-09",
+    "work-place": "TESLA Inc.",
+    "income": [
+      {
+        "date": "2021-06",
+
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-QBR"
+      },
+            {
+        "date": "2021-07",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-QBR"
+      },
+            {
+        "date": "2021-08",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-QBR"
+      },
+            {
+        "date": "2021-09",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-QBR"
+      },
+            {
+        "date": "2021-10",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-QBR"
+      },
+            {
+        "date": "2021-11",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-QBR"
+      },
+           {
+        "date": "2021-122",
+        "income_amount": 3000543.67,
+        "tax": 360065.24,
+        "organization": "AL-QBR"
+      },
+             {
+        "date": "2022-01",
+        "income_amount": 4500543.67,
+        "tax": 380065.24,
+        "organization": "TESLA Inc."
+      },
+      {
+        "date": "2022-02",
+        "income_amount": 4500543.67,
+        "tax": 380065.24,
+        "organization": "TESLA Inc."
+      }
+    ]
+  },
+  {
+    "name":"Aziz",
+    "lastname": "Mavlonov",
+    "birthdate": "1990-11-09",
+    "work-place": "TBC Bank",
+    "income": [
+      {
+        "date": "2021-01",
+        "income_amount": 4000543.67,
+        "tax": 460065.24,
+        "organization": "Kapital Bank"
+      },
+      {
+        "date": "2021-02",
+        "income_amount": 4000543.67,
+        "tax": 460065.24,
+        "organization": "Kapital Bank"
+      },
+      {
+        "date": "2021-03",
+        "income_amount": 4000543.67,
+        "tax": 460065.24,
+        "organization": "Kapital Bank"
+      },
+            {
+        "date": "2021-04",
+        "income_amount": 4000543.67,
+        "tax": 460065.24,
+        "organization": "Kapital Bank"
+      },
+      {
+        "date": "2021-05",
+        "income_amount": null,
+        "tax": null,
+        "organization": null
+      },
+      {
+        "date": "2021-06",
+        "income_amount": null,
+        "tax": null,
+        "organization": null
+      },
+      {
+        "date": "2021-07",
+        "income_amount": null,
+        "tax": null,
+        "organization": null
+      },
+
+      {
+        "date": "2021-08",
+        "income_amount": null,
+        "tax": null,
+        "organization": null
+      },
+      {
+        "date": "2021-09",
+        "income_amount": 4505764.67,
+        "tax": 803330.23,
+        "organization": "TBC Bank"
+      },
+
+      {
+        "date": "2021-10",
+        "income_amount": 4505764.67,
+        "tax": 803330.23,
+        "organization": "TBC Bank"
+      },
+      {
+        "date": "2021-11",
+        "income_amount": 4505764.67,
+        "tax": 803330.23,
+        "organization": "TBC Bank"
+      },
+
+      {
+        "date": "2021-12",
+        "income_amount": 4505764.67,
+        "tax": 803330.23,
+        "organization": "TBC Bank"
+      },
+
+      {
+        "date": "2022-01",
+        "income_amount": 4505764.67,
+        "tax": 803330.23,
+        "organization": "TBC Bank"
+      },
+
+      {
+        "date": "2022-02",
+        "income_amount": 4505764.67,
+        "tax": 803330.23,
+        "organization": "TBC Bank"
+      }
+
+    ]
+  },
+  {
+    "name":"Akbar",
+    "lastname": "Asqarov",
+    "birthdate": "1998-12-15",
+    "work-place": "NBU",
+    "income": [
+      {
+        "date": "2021-01",
+        "income_amount": 4500543.67,
+        "tax": 480065.24,
+        "organization": "INHA"
+      },
+      {
+        "date": "2021-02",
+        "income_amount": 4500543.67,
+        "tax": 480065.24,
+        "organization": "INHA"
+      },
+      {
+        "date": "2021-03",
+        "income_amount": 4500543.67,
+        "tax": 480065.24,
+        "organization": "INHA"
+      },
+      {
+        "date": "2021-04",
+        "income_amount": 4500543.67,
+        "tax": 480065.24,
+        "organization": "INHA"
+      },
+      {
+        "date": "2021-05",
+        "income_amount": 4500543.67,
+        "tax": 480065.24,
+        "organization": "INHA"
+      },
+      {
+        "date": "2021-06",
+        "income_amount": null,
+        "tax": null,
+        "organization": null
+      },
+      {
+        "date": "2021-07",
+        "income_amount": null,
+        "tax": null,
+        "organization": null
+      },
+
+      {
+        "date": "2021-08",
+        "income_amount": 3500543.67,
+        "tax": 330065.24,
+        "organization": "TURIN University"
+      },
+      {
+        "date": "2021-09",
+        "income_amount": 3500543.67,
+        "tax": 330065.24,
+        "organization": "TURIN University"
+      },
+
+      {
+        "date": "2021-10",
+        "income_amount": 3500543.67,
+        "tax": 330065.24,
+        "organization": "TURIN University"
+      },
+      {
+        "date": "2021-11",
+        "income_amount": 3500543.67,
+        "tax": 330065.24,
+        "organization": "TURIN University"
+      },
+
+      {
+        "date": "2021-12",
+        "income_amount": 4805764.67,
+        "tax": 823330.23,
+        "organization": "NBU"
+      },
+
+      {
+        "date": "2022-01",
+       "income_amount": 4805764.67,
+        "tax": 823330.23,
+        "organization": "NBU"
+      },
+
+      {
+        "date": "2022-02",
+        "income_amount": 4805764.67,
+        "tax": 823330.23,
+        "organization": "NBU"
+      }
+
+    ]
+  }
+]
