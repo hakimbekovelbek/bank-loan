@@ -1,4 +1,3 @@
-# EMPTY PROJECT
 class Person:
     nationality = "Uzbekistan"
     def __init__(self, name, lastname, age, sex):
